@@ -1,0 +1,9 @@
+pizza:30
+spaghetti:25
+lasagne:22
+risotto:20
+truffles:14
+polenta:29
+ossobuco:30
+carbonara:22
+focaccia:11

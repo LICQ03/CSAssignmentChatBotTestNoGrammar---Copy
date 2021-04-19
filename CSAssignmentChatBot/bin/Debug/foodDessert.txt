@@ -1,0 +1,5 @@
+tiramisu:20
+cannoli:15
+panettone:15
+zeppole:12
+crostata:20

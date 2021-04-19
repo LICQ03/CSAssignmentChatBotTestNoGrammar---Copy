@@ -1,0 +1,16 @@
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\bin\Release\CSAssignmentChatBot.exe.config
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\bin\Release\CSAssignmentChatBot.exe
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\bin\Release\CSAssignmentChatBot.pdb
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\MainMenu.g.cs
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\MainWindow.g.cs
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\App.g.cs
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot_MarkupCompile.cache
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot_MarkupCompile.lref
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\MainMenu.baml
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\MainWindow.baml
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.g.resources
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.Properties.Resources.resources
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.csproj.GenerateResource.cache
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.csproj.CoreCompileInputs.cache
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.exe
+C:\Users\LICQ03\OneDrive\Year 11\SDD\CSAssignmentChatBot\CSAssignmentChatBot\obj\Release\CSAssignmentChatBot.pdb
